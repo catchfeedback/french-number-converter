@@ -1,0 +1,10 @@
+{
+    "name": "french-number-converter",
+    "version": "1.0.0",
+    "description": "A package to convert numbers into their French word representations.",
+    "main": "index.js",
+    "scripts": {
+      "test": "node test.js"
+    }    
+}
+  
